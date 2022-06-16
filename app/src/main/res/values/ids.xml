@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tilNum1" type="id">tilNum1</item>
+    <item name="tilNum2" type="id">tilNum2</item>
+    <item name="tilAnswer" type="id">tilAnswer</item>
+</resources>

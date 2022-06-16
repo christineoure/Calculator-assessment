@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorAssessment</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSubtract">-</string>
+    <string name="btnModulus">%</string>
+    <string name="btnDivide">/</string>
+</resources>
